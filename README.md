@@ -1,2 +1,4 @@
 # hello-world
-my first rep
+Hello nerds.
+My goal is Web developement.
+Best Regards
